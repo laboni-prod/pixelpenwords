@@ -6,7 +6,7 @@ const siteConfig: SiteConfig = {
     website: 'https://example.com',
     avatar: {
         src: avatar,
-        alt: 'Ethan Donovan'
+        alt: 'PixelPenWords logo'
     },
     title: 'PixelPenWords',
     subtitle: 'Writing, systems and digital things',
