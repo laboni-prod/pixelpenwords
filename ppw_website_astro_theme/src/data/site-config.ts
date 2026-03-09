@@ -9,8 +9,8 @@ const siteConfig: SiteConfig = {
         alt: 'Ethan Donovan'
     },
     title: 'PixelPenWords',
-    subtitle: 'Quiet systems for loud minds',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    subtitle: 'Writing, systems and digital things',
+    description: 'A writing platform, product experiments, and digital ecosystem',
     image: {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
@@ -21,7 +21,7 @@ const siteConfig: SiteConfig = {
             href: '/'
         },
         {
-            text: 'My Projects',
+            text: 'Projects',
             href: '/projects'
         },
         {
@@ -29,7 +29,7 @@ const siteConfig: SiteConfig = {
             href: '/tools'
         },
         {
-            text: 'My Insights',
+            text: 'Writings',
             href: '/blog'
         },
         {
