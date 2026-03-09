@@ -11,10 +11,6 @@ const siteConfig: SiteConfig = {
     title: 'PixelPenWords',
     subtitle: 'Writing, systems and digital things',
     description: 'A writing platform, product experiments, and digital ecosystem',
-    image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
-    },
     headerNavLinks: [
         {
             text: 'Home',
