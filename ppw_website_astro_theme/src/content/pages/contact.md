@@ -1,14 +1,21 @@
 ---
-title: Get in touch
+title: Write to Me...
 seo:
   title: Contact
   description: Get in touch through email or social media! Let me know how I can help.
 ---
 
-Thank you for reaching out! Whether you have a question, a suggestion, or just want to share your thoughts, I'm all ears. Feel free to get in touch through any of the methods below:
 
-_Email:_
-Feel free to drop me an email at [example@example.com](mailto:example@example.com), and I'll do my best to respond as soon as possible.
+Whether you want to collaborate, share feedback on something I've written or just say hello — I'm genuinely happy to hear from you.
 
-_Social Media:_
-Connect with me on social media as well. Find me on [Twitter](https://twitter.com) or [LinkedIn](https://www.linkedin.com/).
+
+## Email:
+
+_Send me a note at_ [pixelpenwords@gmail.com](mailto:pixelpenwords@gmail.com)
+I usually reply within a few days. No pitches, please — thoughtful conversations are always welcome.
+
+
+## Social Media:
+
+_Connect with me on social media as well._
+Find me on [LinkedIn](https://www.linkedin.com/in/laboni-bhattacharya-38784a1a2/) or browse my digital products on [Gumroad](https://pixelpenwords.gumroad.com/).
