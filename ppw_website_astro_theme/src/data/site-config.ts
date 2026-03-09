@@ -71,10 +71,10 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Welcome to PixelPenWords!',
-        text: "I'm **LABONI B**, a writer by profession and a builder by heart. Currently transitioning into the field of product design with digital products that help people manage their cognitive load. \n This space is where I will present my projects and document my learning experience openly.\n\n Excited to have you join my new journey! \n\n Feel free to explore some of my coding endeavors on [GitHub](https://github.com/JustGoodUI/dante-astro-theme) or follow me on [Twitter/X](https://twitter.com/justgoodui).",
+        text: "I'm **LABONI B**, a writer by profession and a builder by heart. Currently transitioning into the field of product design with digital products that help people manage their cognitive load. \n This space is where I will present my projects and document my learning experience openly.\n\n Excited to have you join my new journey! \n\n Feel free to explore on [GitHub](https://github.com/JustGoodUI/dante-astro-theme) or follow me on [Twitter/X](https://twitter.com/justgoodui).",
         image: {
             src: hero,
-            alt: 'A person sitting at a desk in front of a computer'
+            alt: 'A picture of tablet on desk with papers, book and glasses'
         },
         actions: [
             {
