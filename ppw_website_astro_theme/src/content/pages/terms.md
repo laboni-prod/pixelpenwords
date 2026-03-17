@@ -1,5 +1,5 @@
 ---
-title: Terms of Service
+title: Terms
 seo:
   title: Terms of Service
   description: Explore the terms and conditions of Dante website for a clear understanding of guidelines and responsibilities.
@@ -38,35 +38,34 @@ Unless a product listing says otherwise, everything you buy here is for **person
 
 If you're unsure whether something you want to do falls within these terms, just ask.
 
-**Custom Work**
+***Custom Work***
 
 If you're interested in a custom template or a variation of something you've seen here, feel free to reach out. I take on custom work occasionally and entirely at my own discretion — no guarantees, but I'm always happy to hear what you have in mind.
 
-## My Content
+### My Content
 
 Everything on this site (the writing, case studies, design work, and code) belongs to PixelPenWords unless I've noted otherwise. If you'd like to quote or reference something, you're welcome to, as long as you credit and link back to the original.
 
 Please don't copy and republish my work without permission.
 
-## A Quick Disclaimer
+### A Quick Disclaimer
 
 I share things here because I find them useful or interesting- but I can't guarantee every piece of information is complete or perfectly suited to your situation. Use your own judgment, and if something matters a lot, verify it independently.
 
-## Links to Other Sites
+### Links to Other Sites 
 
 I sometimes link out to other platforms; Gumroad, GitHub, LinkedIn, and others. I don't control those sites and I'm not responsible for what happens there.
 
-## Your Privacy
+### Privacy
 
 I don't collect personal information beyond what standard website analytics might capture. If you contact me through the contact form, I'll use what you share only to respond to you. Nothing else, and nothing shared with third parties.
 
-## Changes
+### Changes
 
 If I update these terms, I'll change the date at the top. Continuing to use the site after an update means you're okay with the changes.
 
----
 
-## Questions?
+## Any Questions?
 
 If something here is unclear or you want to talk through a specific situation, you can always reach me through the [Contact page](/contact). I'm a real person and I read everything.
 
