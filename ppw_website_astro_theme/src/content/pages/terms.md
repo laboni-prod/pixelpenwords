@@ -5,48 +5,71 @@ seo:
   description: Explore the terms and conditions of Dante website for a clear understanding of guidelines and responsibilities.
 ---
 
-**Last updated on January 11, 2024**
+**Last updated on March 18, 2026**
 
-These Terms of Service ("Terms") govern your access to and use of [Website Name] ("the Website") and any related services provided by [Website Owner/Company] ("we," "us," or "our"). Please read these Terms carefully before using the Website.
 
-**1. Acceptance of Terms**
+Hey, glad you're here. Before you explore, buy, or bookmark anything, here's what you need to know about how PixelPenWords works. I've kept this as straightforward as possible.
 
-By accessing or using the Website, you agree to be bound by these Terms and our Privacy Policy. If you do not agree to these Terms or the Privacy Policy, please do not use the Website.
+---
 
-**2. Changes to Terms**
+## What is PixelPenWords?
 
-We reserve the right to modify, amend, or update these Terms at any time. Such changes will be effective upon posting on the Website. It is your responsibility to review these Terms regularly. Your continued use of the Website after any changes indicates your acceptance of the revised Terms.
+PixelPenWords is run by me, Laboni B, a content writer and product builder based in India. This site is part portfolio, part shop, part corner of the internet where I share my work and thinking.
 
-**3. Use of the Website**
+## Digital Products
 
-You agree to use the Website for lawful purposes and in a manner consistent with these Terms. You are responsible for any content you post or submit on the Website.
+**Buying & Getting Your Files**
 
-**4. Registration and Account**
+Products and resources on this site are either free or paid. Paid items are delivered through third-party sites like Gumroad or directly through PixelPenWords, depending on the product. You'll get access right away after payment. Free resources are available instantly with no sign-up required, unless a specific page says otherwise.
 
-Certain areas of the Website may require registration or the creation of an account. You agree to provide accurate, current, and complete information during the registration process and to update such information to keep it accurate, current, and complete. You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.
+**Refunds**
 
-**5. Content and Intellectual Property**
+Because digital files can't be "returned," I don't offer refunds once a product has been delivered. That said, if something goes wrong on the technical side (e.g., a broken file, a download that won't open) reach out and I'll sort it out.
 
-The content on the Website, including text, graphics, logos, images, audio, video, software, and other materials, is owned or licensed by us and is protected by copyright and other intellectual property laws. You may not use, reproduce, or distribute the content without our prior written consent.
+**What You Can Do With Your Purchase**
 
-**6. Third-Party Links**
+Unless a product listing says otherwise, everything you buy here is for **personal use**. Here's what that looks like in practice:
 
-The Website may contain links to third-party websites or resources. We do not endorse and are not responsible for the content, products, or services provided by third parties. Your use of such websites is at your own risk.
+- Use it for your own work, projects, or workflows
+- Customise it however you need
+- Don't resell it or pass it off as your own
+- Don't redistribute the original files, free or paid
+- Don't use it as the base for a product you sell to others
 
-**7. Termination**
+If you're unsure whether something you want to do falls within these terms, just ask.
 
-We may, at our sole discretion, terminate or suspend your access to the Website at any time and for any reason, without notice.
+**Custom Work**
 
-**8. Disclaimer**
+If you're interested in a custom template or a variation of something you've seen here, feel free to reach out. I take on custom work occasionally and entirely at my own discretion — no guarantees, but I'm always happy to hear what you have in mind.
 
-The Website and its content are provided on an "as is" and "as available" basis. We make no warranties or representations about the accuracy or completeness of the content. We do not guarantee that the Website will be error-free or uninterrupted.
+## My Content
 
-**9. Limitation of Liability**
+Everything on this site (the writing, case studies, design work, and code) belongs to PixelPenWords unless I've noted otherwise. If you'd like to quote or reference something, you're welcome to, as long as you credit and link back to the original.
 
-To the fullest extent permitted by law, we shall not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to damages for loss of profits, goodwill, use, data, or other intangible losses, arising out of or in connection with the use or inability to use the Website.
+Please don't copy and republish my work without permission.
 
-**10. Governing Law**
+## A Quick Disclaimer
 
-These Terms are governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of laws principles. Any disputes arising under these Terms shall be subject to the exclusive jurisdiction of the courts of [Your Jurisdiction].
+I share things here because I find them useful or interesting- but I can't guarantee every piece of information is complete or perfectly suited to your situation. Use your own judgment, and if something matters a lot, verify it independently.
 
-_Thank you for reading our Terms of Service. By using the Website, you agree to be bound by these Terms._
+## Links to Other Sites
+
+I sometimes link out to other platforms; Gumroad, GitHub, LinkedIn, and others. I don't control those sites and I'm not responsible for what happens there.
+
+## Your Privacy
+
+I don't collect personal information beyond what standard website analytics might capture. If you contact me through the contact form, I'll use what you share only to respond to you. Nothing else, and nothing shared with third parties.
+
+## Changes
+
+If I update these terms, I'll change the date at the top. Continuing to use the site after an update means you're okay with the changes.
+
+---
+
+## Questions?
+
+If something here is unclear or you want to talk through a specific situation, you can always reach me through the [Contact page](/contact.md). I'm a real person and I read everything.
+
+---
+
+*This page reflects my honest intentions as a solo creator. It's written in plain language, not legalese — and that's intentional.*
