@@ -68,7 +68,7 @@ If I update these terms, I'll change the date at the top. Continuing to use the 
 
 ## Questions?
 
-If something here is unclear or you want to talk through a specific situation, you can always reach me through the [Contact page](/contact.md). I'm a real person and I read everything.
+If something here is unclear or you want to talk through a specific situation, you can always reach me through the [Contact page](/contact). I'm a real person and I read everything.
 
 ---
 
