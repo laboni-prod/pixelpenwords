@@ -1,8 +1,9 @@
 ---
 title: Terms
 seo:
-  title: Terms of Service
-  description: Explore the terms and conditions of Dante website for a clear understanding of guidelines and responsibilities.
+  title: Terms & Conditions — PixelPenWords
+  description: The terms of using PixelPenWords covering digital products, usage rights, refunds and content ownership. Written in plain language.
+
 ---
 
 **Last updated on March 18, 2026**
