@@ -47,8 +47,8 @@ const siteConfig: SiteConfig = {
             href: '/terms'
         },
         {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
+            text: 'View on GitHub',
+            href: 'https://github.com/laboni-prod/pixelpenwords'
         }
     ],
     socialLinks: [
