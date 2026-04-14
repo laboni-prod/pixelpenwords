@@ -3,7 +3,7 @@ import hero from '../assets/images/hero_gemini.jpg';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
-    website: 'https://example.com',
+    website: 'https://www.pixelpenwords.com',
     avatar: {
         src: avatar,
         alt: 'PixelPenWords logo'
