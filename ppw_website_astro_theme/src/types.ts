@@ -42,6 +42,8 @@ export type SiteConfig = {
     socialLinks?: Link[];
     hero?: Hero;
     subscribe?: Subscribe;
+    subscribeProjects?: Subscribe;
+    subscribeWritings?: Subscribe;
     postsPerPage?: number;
     projectsPerPage?: number;
 };
