@@ -89,16 +89,16 @@ const siteConfig: SiteConfig = {
     },
     subscribeProjects: {
         enabled: true,
-         title: 'Subscribe to Projects Updates',
-         text: 'Get notified when I launch new projects and case studies.',
+         title: 'The Beta Tester List',
+         text: 'Join the list to be first to test new tools, apps, and experiments before they go live. Your feedback helps shape what gets built.',
          form: {
             action: '#'
         }
     },
     subscribeWritings: {
          enabled: true,
-         title: 'Subscribe to My Writings',
-         text: 'Get new essays, notes, and posts in your inbox.',
+         title: 'Field Notes',
+         text: 'Occasional highlights from what I’ve built, broken, learned, and written - including the short version of any long posts you may have missed.',
          form: {
             action: '#'
         }
