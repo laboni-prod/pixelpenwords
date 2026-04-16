@@ -72,4 +72,4 @@ If something here is unclear or you want to talk through a specific situation, y
 
 ---
 
-*This page reflects my honest intentions as a solo creator. It's written in plain language, not legalese — and that's intentional.*
+*This page reflects my honest intentions as a solo creator. It's written in plain language, not legalese (and that's totally intentional.)*
