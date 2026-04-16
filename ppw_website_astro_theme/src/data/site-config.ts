@@ -95,6 +95,14 @@ const siteConfig: SiteConfig = {
             action: '#'
         }
     },
+    subscribeWritings: {
+         enabled: true,
+         title: 'Subscribe to My Writings',
+         text: 'Get new essays, notes, and posts in your inbox.',
+         form: {
+            action: '#'
+        }
+    },
 
     postsPerPage: 8,
     projectsPerPage: 8

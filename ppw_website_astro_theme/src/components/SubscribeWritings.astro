@@ -5,7 +5,7 @@ import Button from './Button.astro';
 type Props = { class?: string };
 
 const { class: className } = Astro.props;
-const subscribe = siteConfig.subscribe;
+const subscribe = siteConfig.subscribeWritings;
 if (!subscribe?.enabled || !subscribe?.form?.action) {
     return;
 }
