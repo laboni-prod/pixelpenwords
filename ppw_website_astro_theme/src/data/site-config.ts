@@ -87,6 +87,15 @@ const siteConfig: SiteConfig = {
             action: '#'
         }
     },
+    subscribeProjects: {
+        enabled: true,
+         title: 'Subscribe to Projects Updates',
+         text: 'Get notified when I launch new projects and case studies.',
+         form: {
+            action: '#'
+        }
+    },
+
     postsPerPage: 8,
     projectsPerPage: 8
 };
