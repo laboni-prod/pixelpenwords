@@ -22,6 +22,5 @@ const portfolio = page.data;
 <BaseLayout title="Tools" description="Explore digital tools like spreadsheets and templates for sale in one list. " showHeader={false}>
     <h1 class="mb-12 font-serif text-2xl leading-tight italic sm:mb-16 sm:text-4xl">Digital Tools by PixelPenWords</h1>
     {portfolio.map((tool) => <ToolCard tool={tool} class="mb-10 sm:mb-12" />)}
-    <Pagination page={page} class="my-16 sm:my-24" />
     <SubscribeProjects class="my-16 sm:my-24" />
 </BaseLayout>
