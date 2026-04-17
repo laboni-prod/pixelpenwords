@@ -50,4 +50,7 @@ const projects = defineCollection({
         })
 });
 
+// TODO: add tools collection later
+
 export const collections = { blog, pages, projects };
+
