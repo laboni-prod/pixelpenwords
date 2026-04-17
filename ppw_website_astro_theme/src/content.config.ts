@@ -50,7 +50,18 @@ const projects = defineCollection({
         })
 });
 
-// TODO: add tools collection later
+const tools = defineCollection({
+  loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/tools' }),
+  schema: ({ image }) =>
+    z.object({
+      title: z.string(),
+      description: z.string().optional(),
+      publishDate: z.coerce.date().optional(),
+      price: z.string().optional(),
+      link: z.string().optional(),
+      seo: seoSchema(image).optional()
+    })
+});
 
-export const collections = { blog, pages, projects };
+export const collections = { blog, pages, projects, tools };
 
