@@ -191,4 +191,16 @@ html.dark {
         .gallery-grid img:hover{
             transform:translateY(-2px);
         }
+       
+        .gallery-card{
+        padding:1rem;
+        background:rgba(255,255,255,.18);
+        border:1px solid rgba(0,0,0,.08);
+        border-radius:22px;
+    }
+    .gallery-card img{
+        border-radius:14px;
+        display:block;
+        width:100%;
+    }
     }

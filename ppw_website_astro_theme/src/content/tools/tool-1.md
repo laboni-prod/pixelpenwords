@@ -4,12 +4,12 @@ description: A structured Notion template designed for intentional planning, wee
 publishDate: 'Jan 02 2024'
 seo:
   image:
-    src: '../../assets/images/tool_1_hero.png'
+    src: '../../assets/images/tool-1-hero.png'
     alt: Project preview
 ---
 
 
-![Project preview](../../assets/images/project-1.jpg)
+![Project preview](../../assets/images/tool-1-hero.png)
 
 
 <div class="offer-box">
