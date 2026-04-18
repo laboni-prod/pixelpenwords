@@ -11,16 +11,25 @@ seo:
 
 ![Project preview](../../assets/images/project-1.jpg)
 
+<details>
+  <summary>Click to view gallery</summary>
+  <img src="project-1.jpg" width="300">
+  <img src="image2.jpg" width="300">
+</details>
+
+
 **Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
 
 **Project Overview:**
-EcoBuddy is a revolutionary mobile application designed to make sustainable living accessible, engaging, and rewarding. With a focus on gamification and real-world impact, EcoBuddy encourages users to adopt eco-friendly habits, reduce their carbon footprint, and contribute to a healthier planet.
 
-## Objectives
+Mindful Progress Planner is a clean and structured Notion template designed to help you plan intentionally and reflect peacefully.
+Whether you’re tracking weekly goals, noting challenges, or recording small wins, this planner keeps everything in one calm space; no clutter, no overwhelm.
 
-1. Develop a user-friendly mobile app that motivates individuals to adopt sustainable practices in their daily lives.
-2. Utilize gamification elements to make sustainable living fun and interactive.
-3. Provide educational resources and personalized challenges to empower users to make informed eco-conscious decisions.
+
+
+## Useful For
+
+1. 
 
 ## Features
 
@@ -49,12 +58,13 @@ EcoBuddy is a revolutionary mobile application designed to make sustainable livi
 - An AI-powered assistant, EcoEducator, provides personalized eco-tips, facts, and information based on users' preferences and habits.
 - Users can chat with EcoEducator for instant advice on sustainable living.
 
-## Technology Stack
+## How to Use
 
 - Frontend: React Native for cross-platform mobile app development.
 - Backend: Firebase for real-time data synchronization and user authentication.
 - Database: Firestore for scalable and flexible data storage.
 - AI Integration: Dialogflow for natural language processing and conversation with EcoEducator.
+
 
 ## Outcome
 
