@@ -25,7 +25,34 @@ seo:
 Mindful Progress Planner is a clean and structured Notion template designed to help you plan intentionally and reflect peacefully.
 Whether you’re tracking weekly goals, noting challenges, or recording small wins, this planner keeps everything in one calm space; no clutter, no overwhelm.
 
+<div class="tool-grid">
 
+<div>
+
+## Useful For
+
+- Students  
+- Freelancers  
+- Creators  
+- Small business owners  
+- Anyone wanting structured planning
+
+</div>
+
+<div>
+
+## Features
+
+- Weekly planner  
+- Habit tracker  
+- Reflection prompts  
+- Progress dashboard  
+- Goal roadmap  
+- Clean minimalist layout
+
+</div>
+
+</div>
 
 ## Useful For
 

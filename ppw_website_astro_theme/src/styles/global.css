@@ -82,6 +82,7 @@ html.dark {
         --tw-prose-code: var(--text-color-main);
         --tw-prose-th-borders: var(--border-color-main);
         --tw-prose-td-borders: var(--border-color-main);
+        font-size: 16px;
     }
 
     .prose a {
@@ -98,5 +99,24 @@ html.dark {
 
     .prose blockquote {
         @apply font-serif font-normal italic border-none pl-0 text-[1.375em] leading-snug sm:text-[1.66667em];
+    }
+    
+    .tool-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 4rem;
+        margin: 4rem 0;
+        align-items: start;
+    }
+    
+    .tool-grid h2 {
+        margin-top: 0;
+    }
+    
+    @media (max-width: 768px) {
+        .tool-grid {
+            grid-template-columns: 1fr;
+            gap: 2rem;
+        }
     }
 }
