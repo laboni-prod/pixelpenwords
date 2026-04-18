@@ -119,4 +119,59 @@ html.dark {
             gap: 2rem;
         }
     }
+    .offer-box{
+        padding:2rem;
+        margin:2rem 0;
+        border:1px solid rgba(0,0,0,.08);
+        border-radius:28px;
+    }
+    .offer-box h3{
+        margin:0 0 1.5rem;
+        font-size: 1.9rem;
+        line-height: 1;
+        font-weight: 600;
+    }
+    .offer-row{
+        display:grid;
+        grid-template-columns: 1.2fr auto;
+        gap:1rem;
+        align-items:center;
+    }
+    .price{
+        font-size: 1rem;
+        margin:0 0 .75rem;
+    }
+    .trust{
+        margin:0;
+        opacity:.6;
+        font-size:1rem;
+    }
+    .buy-btn{
+         display:inline-block;
+         padding:1rem 1.5rem;
+         border-radius:999px;
+         border:1px solid #111;
+         background:transparent;
+         color:#111;
+         text-decoration:none;
+         transition:all .25s ease;
+        }
+        .buy-btn:hover{
+            background:#111;
+            color:#f5f3e8;
+        }
+        .buy-btn:active{
+            transform:scale(.98);
+        }
+
+@media(max-width:768px){
+  .offer-row{
+    grid-template-columns:1fr;
+    gap:1.2rem;
+  }
+
+  .offer-action{
+    justify-self:start;
+  }
+}
 }

@@ -12,6 +12,27 @@ seo:
 ![Project preview](../../assets/images/project-1.jpg)
 
 
+<div class="offer-box">
+
+<h3>Bring calm into your workspace</h3>
+
+<div class="offer-row">
+
+<div class="offer-copy">
+<p class="price">Pay what you want, starting at $0</p>
+<p class="trust">Secure checkout · Instant download</p>
+</div>
+
+<div class="offer-action">
+<a href="https://pixelpenwords.gumroad.com/l/mceaer" class="buy-btn" target="_blank">
+Get it on Gumroad →
+</a>
+</div>
+
+</div>
+
+</div>
+
 
 **Project Overview:**
 
@@ -47,7 +68,7 @@ Whether you’re tracking weekly goals, noting challenges, or recording small wi
 
 ## How to Get It 
 
-1. Click the **Get on Gumroad** button above.  
+1. Click the **Get it on Gumroad** button above.  
 2. You’ll be redirected to my secure Gumroad checkout page.  
 3. Enter any amount you’d like (starting at $0).  
 4. Download instantly after checkout.  
