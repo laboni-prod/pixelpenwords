@@ -80,3 +80,14 @@ Whether you’re tracking weekly goals, noting challenges, or recording small wi
 _This template is offered as **pay what you want**._
 _If it helps you, feel free to support my work._
 _If money is tight right now, you’re welcome to download it for free._
+
+</div>
+
+<h2>PREVIEW THE TEMPLATE</h2>
+
+<div class="gallery-grid">
+  <img src="/images/tool1-1.jpg">
+  <img src="/images/tool1-2.jpg">
+  <img src="/images/tool1-3.jpg">
+  <img src="/images/tool1-4.jpg">
+</div>
