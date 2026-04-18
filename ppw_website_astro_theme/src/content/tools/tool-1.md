@@ -4,7 +4,7 @@ description: A structured Notion template designed for intentional planning, wee
 publishDate: 'Jan 02 2024'
 seo:
   image:
-    src: '../../assets/images/project-1.jpg'
+    src: '../../assets/images/tool_1_hero.png'
     alt: Project preview
 ---
 
