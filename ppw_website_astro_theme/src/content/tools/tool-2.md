@@ -4,12 +4,12 @@ description: A structured Notion template designed for intentional planning, wee
 publishDate: 'Jan 02 2024'
 seo:
   image:
-    src: '(../../assets/images/tool-1-hero.png)'
+    src: '(../../assets/images/tool-2-hero.png)'
     alt: Project preview
 ---
 
 
-![Project preview](../../assets/images/tool-1-hero.png)
+![Project preview](../../assets/images/tool-2-hero.png)
 
 
 <div class="offer-box">
@@ -87,19 +87,19 @@ _If money is tight right now, you’re welcome to download it for free._
 <h2>PREVIEW THE TEMPLATE</h2>
 
 <div class="gallery-grid">
-  <a href="/images/tool-1-full.png" target="_blank">
-    <img src="/images/tool-1-full.png" alt="">
+  <a href="/images/tool-2-full.png" target="_blank">
+    <img src="/images/tool-2-full.png" alt="">
   </a>
 
-  <a href="/images/tool-1-second.png" target="_blank">
-    <img src="/images/tool-1-second.png" alt="">
+  <a href="/images/tool-2-1.png" target="_blank">
+    <img src="/images/tool-2-1.png" alt="">
   </a>
 
-  <a href="/images/tool-1-mobile-1.jpeg" target="_blank">
-    <img src="/images/tool-1-mobile-1.jpeg" alt="">
+  <a href="/images/tool-2-2.png" target="_blank">
+    <img src="/images/tool-2-2.png" alt="">
   </a>
 
-  <a href="/images/tool-1-mobile-2.jpeg" target="_blank">
-    <img src="/images/tool-1-mobile-2.jpeg" alt="">
+  <a href="/images/tool-2-3.png" target="_blank">
+    <img src="/images/tool-2-3.png" alt="">
   </a>
 </div>
