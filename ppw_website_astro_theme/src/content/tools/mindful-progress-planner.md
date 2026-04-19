@@ -20,7 +20,7 @@ seo:
 
 <div class="offer-copy">
 <p class="price">Pay what you want, starting at $0</p>
-<p class="trust">Secure checkout · Instant download</p>
+<p class="trust">Secure checkout · Works on desktop + mobile Notion </p>
 </div>
 
 <div class="offer-action">
