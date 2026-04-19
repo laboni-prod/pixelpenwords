@@ -1,6 +1,6 @@
 ---
 title: 'Glow-Up Tracker | Notion Template'
-description: A beginner-friendly Notion template to help you stay consistent with home workouts, track real progress, and build confidence over time.
+description: A beginner-friendly Notion template to help you stay consistent with home workouts, track real progress, and build confidence over time. Paid product.
 publishDate: 'Jan 02 2024'
 seo:
   image:

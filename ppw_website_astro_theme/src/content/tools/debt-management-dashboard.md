@@ -1,6 +1,6 @@
 ---
 title: 'Debt Management Dashboard | Google Sheets Spreadsheet'
-description: A clean automated Google Sheets dashboard to help you organize debt, track progress, and finally feel in control again.
+description: A clean automated Google Sheets dashboard to help you organize debt, track progress, and finally feel in control again. Paid product.
 publishDate: 'Jan 02 2024'
 seo:
   image:
