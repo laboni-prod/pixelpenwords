@@ -4,7 +4,7 @@ description: A structured Notion template designed for intentional planning, wee
 publishDate: 'Jan 02 2024'
 seo:
   image:
-    src: '(../assets/images/tool11.png)'
+    src: '(../../assets/images/tool11.png)'
     alt: Project preview
 ---
 
@@ -83,11 +83,23 @@ _If money is tight right now, you’re welcome to download it for free._
 
 </div>
 
+
 <h2>PREVIEW THE TEMPLATE</h2>
 
 <div class="gallery-grid">
-  <img src="..assets/images/tool-1-full.png">
-  <img src="/images/tool1-2.jpg">
-  <img src="/images/tool1-3.jpg">
-  <img src="/images/tool1-4.jpg">
+  <a href="/images/tool-1-full.png" target="_blank">
+    <img src="/images/tool-1-full.png" alt="">
+  </a>
+
+  <a href="/images/tool-1-second.png" target="_blank">
+    <img src="/images/tool-1-second.png" alt="">
+  </a>
+
+  <a href="/images/tool-1-mobile-1.jpeg" target="_blank">
+    <img src="/images/tool-1-mobile-1.jpeg" alt="">
+  </a>
+
+  <a href="/images/tool-1-mobile-2.jpeg" target="_blank">
+    <img src="/images/tool-1-mobile-2.jpeg" alt="">
+  </a>
 </div>
