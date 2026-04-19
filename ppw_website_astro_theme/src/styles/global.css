@@ -146,23 +146,40 @@ html.dark {
         opacity:.6;
         font-size:1rem;
     }
-    .buy-btn{
-         display:inline-block;
-         padding:1rem 1.5rem;
-         border-radius:999px;
-         border:1px solid #111;
-         background:transparent;
-         color:#111;
-         text-decoration:none;
-         transition:all .25s ease;
-        }
-        .buy-btn:hover{
-            background:#111;
-            color:#f5f3e8;
-        }
-        .buy-btn:active{
-            transform:scale(.98);
-        }
+/* Base button */
+.buy-btn{
+    display:inline-block;
+    padding:1rem 1.5rem;
+    border-radius:999px;
+    text-decoration:none;
+    transition:all .25s ease;
+    border:1px solid transparent;
+}
+
+/* DAY MODE PAGE -> DARK BUTTON */
+:root .buy-btn{
+    background:#1F2118;
+    color:#d5d6d5;
+    border-color:#1F2118;
+}
+
+/* DARK MODE PAGE -> LIGHT BUTTON */
+html.dark .buy-btn{
+    background:#e3e6d1;
+    color:#212310;
+    border-color:#e3e6d1;
+}
+
+/* Hover effect */
+.buy-btn:hover{
+    transform: translateY(-2px);
+    filter: brightness(1.08);
+    box-shadow: 0 8px 18px rgba(0,0,0,.12);
+}
+
+.buy-btn:active{
+    transform:scale(.98);
+}
         
         @media(max-width:768px){
             .offer-row{
@@ -209,7 +226,8 @@ html.dark {
   gap: 24px;
 }
 
-.gallery-grid img {
+.gallery-grid img,
+.gallery-grid video  {
   width: 100%;
   height: 260px;
   object-fit: cover;
