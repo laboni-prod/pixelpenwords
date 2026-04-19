@@ -1,6 +1,6 @@
 ---
-title: 'Mindful Progress Planner | Notion Template'
-description: A structured Notion template designed for intentional planning, weekly reflection, and mindful productivity.
+title: 'Monthly Money Reality | Notion Template'
+description: A gentle Notion template designed to help you look at your finances without pressure or judgment.
 publishDate: 'Jan 02 2024'
 seo:
   image:
@@ -14,17 +14,17 @@ seo:
 
 <div class="offer-box">
 
-<h3>Bring calm into your workspace</h3>
+<h3>Get clarity on your financial reality</h3>
 
 <div class="offer-row">
 
 <div class="offer-copy">
 <p class="price">Pay what you want, starting at $0</p>
-<p class="trust">Secure checkout · Instant download</p>
+<p class="trust">Secure checkout · Instant download · desktop + mobile Notion</p>
 </div>
 
 <div class="offer-action">
-<a href="https://pixelpenwords.gumroad.com/l/mceaer" class="buy-btn" target="_blank">
+<a href="https://pixelpenwords.gumroad.com/l/monthly-money-reality" class="buy-btn" target="_blank">
 Get it on Gumroad →
 </a>
 </div>
@@ -36,8 +36,7 @@ Get it on Gumroad →
 
 **Project Overview:**
 
-Mindful Progress Planner is a clean and structured Notion template designed to help you plan intentionally and reflect peacefully.
-Whether you’re tracking weekly goals, noting challenges, or recording small wins, this planner keeps everything in one calm space; no clutter, no overwhelm.
+Monthly Money Reality is a pressure-free Notion template created to help you observe your financial habits gently. Instead of rigid budgeting, it focuses on awareness; tracking what came in, where it went, how it felt, and what small adjustments you can make next. It’s a calm space to sit with your money reality without the overwhelm.
 
 <div class="tool-grid">
 
@@ -45,11 +44,11 @@ Whether you’re tracking weekly goals, noting challenges, or recording small wi
 
 ## Useful For
 
-- Individuals seeking mindful productivity
-- Students balancing assignments and personal life
-- Professionals managing busy schedules and late work hours
-- Goal-setters wanting to build consistent daily habits
-- Anyone looking to organize tasks and reflections in one place
+- Individuals seeking a gentle, non-judgmental approach to money management
+- Anyone easily overwhelmed by complex, rigid budgeting apps
+- People wanting to understand the emotional impact of their spending
+- Freelancers and creators with variable or uncertain incomes
+- Those looking to celebrate small financial wins and make gradual adjustments
 
 </div>
 
@@ -57,11 +56,11 @@ Whether you’re tracking weekly goals, noting challenges, or recording small wi
 
 ## Features
 
-- Monthly overall goal tracker with completion status
-- Task management database with status tracking
-- Guided weekly reflection and gratitude prompts
-- Challenge tracking and next week goal setting
-- Integration block for external tools like Trello
+- High-level financial overview dashboard with emotional impact tracking
+- Simple, straightforward tables for "Money That Came In" and "Where It Mostly Went"
+- Dedicated space to reflect on what stressed you financially this month
+- Reflection list to celebrate the money habits you handled better than before
+- Actionable checklist to set gentle, practical adjustments for the next month
 
 </div>
 </div>
