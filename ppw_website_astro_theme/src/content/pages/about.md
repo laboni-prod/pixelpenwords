@@ -3,41 +3,72 @@ title: About
 seo:
   title: About Me
   description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
-  image:
-    src: '../../assets/images/about.jpg'
-    alt: A person sitting at a desk in front of a computer
 ---
 
-![Alt text for image](../../assets/images/about.jpg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+### Hey person-reading-this,
 
-## Ethan Donovan - Web Developer based in Estonia
+I’m currently working as a writer for a company, creating content for their in-house projects. But somewhere along the way, I realized I didn’t only want to promote products that help people with specific situations — I wanted to create those products directly.
 
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+That curiosity is what pulled me toward product design.
 
-## Skills and Expertise
+A course wasn’t a viable option for me, so I decided to learn the way I know best: by building, experimenting, and [writing about the experience as I go](/blog).
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+## I started with words
 
-## Innovation and Problem-Solving
+If I’m being honest - like, really honest — I have always been a creator.
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+As a child, I used to write stories, or at least the characters, their motivations and how everything would start and end. The characters often wrote themselves. I just put them into words.
 
-## Global Perspective, Local Impact
+**For a long time, words were how I created. Now I’m learning to create in pixels too.**
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+## Why this site exists
 
-## Continuous Learning
+I started making Notion templates for fun, then shared them for others to use.
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+They became a way for me to learn how to build organized digital tools with a focus on minimalism, mindfulness, and beginner-friendliness. I focused on making them especially for people who don’t respond well to gamification or the hustle-hustle-hustle style of organizing life (because, same).
 
-## Collaboration and Communication
+I also experimented with digital wall art that I posted on Etsy, learned Etsy SEO and Pinterest SEO, and different ways of putting creative work into the world.
 
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
+At some point, I realized I was building several things at once: [templates](/tools), product ideas, writing, experiments.
 
-## Get in Touch
+So I asked myself:
 
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
+_What if I had one ecosystem where all of it could live?_
 
-_Let's build something amazing together!_
+That is when I started building **PixelPenWords**.
+
+## What I care about building
+
+**I’m interested in tools that help people feel less confused, less alone, and more capable.** I don’t believe everyone needs louder systems, more rewards, endless streaks, or pressure disguised as motivation. 
+
+Sometimes people are not lazy or unfocused. They just haven’t found the system that works for them yet.
+
+To me, calm productivity means knowing you are capable of doing the task on your own — without pressure, but maybe with a little structure and visual support along the way.
+
+## What I’m still figuring out
+
+I’m still figuring out whether the path I’m on right now is the right one.
+
+- Can I build the [apps](/projects) I’m working on in a way that genuinely helps someone someday?
+- Have I bitten off more than I can chew?
+
+**I have never been the ambitious one. But now that I am dreaming, I’m learning whether I can see it through responsibly.**
+
+## Outside the screen
+
+Things that bring me peace:
+
+Kdramas. Sour candies. Police bodycam videos.
+
+(Yes, in that order.)
+
+## If you’re here too
+
+If you’re also building something, learning something, doubting yourself, fixing bugs, starting late, starting again, or just trying to make sense of things... 
+
+Hi. You’re at the right place.
+
+If my tools or words help you feel a little less stupid, a little less confused, or a little more capable, then this space is doing what I hoped it would.
+
+**— LB**
