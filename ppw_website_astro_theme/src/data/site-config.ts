@@ -53,21 +53,21 @@ const siteConfig: SiteConfig = {
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'LinkedIn',
+            href: 'https://www.linkedin.com/in/laboni-bhattacharya-38784a1a2/'
         },
         {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
+            text: 'Pinterest',
+            href: 'https://in.pinterest.com/pixelpenwords/'
         },
         {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            text: 'Gumroad',
+            href: 'https://pixelpenwords.gumroad.com/'
         }
     ],
     hero: {
         title: 'Thinking Through Systems & Ideas',
-        text: "I'm **LABONI B**, a writer by profession and a builder by heart. Currently transitioning into the field of product design with digital products that help people manage their cognitive load. \n This space is where I will present my projects and document my learning experience openly.\n\n Excited to have you join my new journey! \n\n Feel free to explore on [GitHub](https://github.com/JustGoodUI/dante-astro-theme) or follow me on [Twitter/X](https://twitter.com/justgoodui).",
+        text: "I'm **Laboni B**, a writer by profession and a builder by heart. Currently transitioning into the field of product design with digital products that help people manage their cognitive load. \n This space is where I will present my projects and document my learning experience openly.\n\n Excited to have you join my new journey! \n\n Track my projects and progress on [GitHub](https://github.com/laboni-prod), or reach out via the [Contact](/contact) page.",
         image: {
             src: hero,
             alt: 'A desk with an open notebook, tablet, and Pantone colour swatches'
