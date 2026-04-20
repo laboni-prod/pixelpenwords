@@ -1,5 +1,6 @@
 ---
 import ArrowRight from '../assets/icons/arrow-right.svg';
+import ToolIcon from '../assets/icons/template_icon.svg';
 
 const { tool, class: className } = Astro.props;
 const { title, description } = tool.data;
@@ -12,10 +13,8 @@ const { title, description } = tool.data;
   <div class="flex items-start gap-5 grow">
 
         <!-- LEFT IMAGE -->
-    <img
-      src="/favicon.svg"
-      alt="Tool icon"
-      class="hidden h-16 w-16 rounded-md object-cover sm:block transition duration-300 group-hover:-translate-y-1 group-hover:scale-105"
+    <img src={ToolIcon.src} alt="Tool icon"
+    class="hidden h-16 w-16 rounded-md object-cover sm:block transition duration-300 group-hover:-translate-y-1 group-hover:scale-105"
     />
 
     <!-- TEXT -->
