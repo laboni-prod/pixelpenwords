@@ -2,7 +2,7 @@
 title: About
 seo:
   title: About Me
-  description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
+  description: About Laboni B, writer and builder creating digital tools, documenting a transition into product design and sharing projects and learning.
 ---
 
 
@@ -16,7 +16,7 @@ A course wasn’t a viable option for me, so I decided to learn the way I know b
 
 ## I started with words
 
-If I’m being honest - like, really honest — I have always been a creator.
+If I’m being honest - like, really honest - I have always been a creator.
 
 As a child, I used to write stories, or at least the characters, their motivations and how everything would start and end. The characters often wrote themselves. I just put them into words.
 

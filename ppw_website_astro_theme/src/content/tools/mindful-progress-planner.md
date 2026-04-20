@@ -1,7 +1,7 @@
 ---
 title: 'Mindful Progress Planner | Notion Template'
 description: A structured Notion template designed for intentional planning, weekly reflection, and mindful productivity. Free / pay what you want.
-publishDate: 'Jan 02 2024'
+publishDate: 'Nov 10 2025'
 seo:
   image:
     src: '(../../assets/images/tool-1-hero.png)'

@@ -6,7 +6,7 @@ seo:
 
 ---
 
-**Last updated on March 18, 2026**
+**Last updated on April 20, 2026**
 
 
 Hey, glad you're here. Before you explore, buy, or bookmark anything, here's what you need to know about how PixelPenWords works. I've kept this as straightforward as possible.

@@ -1,7 +1,7 @@
 ---
 title: 'Monthly Money Reality | Notion Template'
 description: A gentle Notion template designed to help you look at your finances without pressure or judgment. Free / pay what you want.
-publishDate: 'Jan 02 2024'
+publishDate: 'Dec 14 2025'
 seo:
   image:
     src: '(../../assets/images/tool-3-hero.png)'
