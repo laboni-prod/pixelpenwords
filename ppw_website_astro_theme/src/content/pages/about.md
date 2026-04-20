@@ -8,7 +8,7 @@ seo:
 
 ### Hey person-reading-this,
 
-I’m currently working as a writer for a company, creating content for their in-house projects. But somewhere along the way, I realized I didn’t only want to promote products that help people with specific situations — I wanted to create those products directly.
+I’m Laboni B. I am currently working as a writer for a company, creating content for their in-house projects. But somewhere along the way, I realized I didn’t only want to promote products that help people with specific situations — I wanted to create those products directly.
 
 That curiosity is what pulled me toward product design.
 
@@ -71,4 +71,4 @@ Hi. You’re at the right place.
 
 If my tools or words help you feel a little less stupid, a little less confused, or a little more capable, then this space is doing what I hoped it would.
 
-**— LB**
+**— Laboni B**
