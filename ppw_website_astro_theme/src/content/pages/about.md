@@ -3,8 +3,12 @@ title: About
 seo:
   title: About Me
   description: About Laboni B, writer and builder creating digital tools, documenting a transition into product design and sharing projects and learning.
+  image:
+    src: '../../assets/images/site_wip_screenshot.png'
+    alt: site accessibility audit preview
 ---
 
+![Project preview](../../assets/images/site_wip_screenshot.png)
 
 ### Hey person-reading-this,
 

@@ -66,7 +66,7 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'Thinking Through Systems & Ideas',
+        title: 'From Words to Pixels. An Honest Version.',
         text: "I'm **Laboni B**, a writer by profession and a builder by heart. Currently transitioning into the field of product design with digital products that help people manage their cognitive load. \n This space is where I will present my projects and document my learning experience openly.\n\n Excited to have you join my new journey! \n\n Track my projects and progress on [GitHub](https://github.com/laboni-prod), or reach out via the [Contact](/contact) page.",
         image: {
             src: hero,
