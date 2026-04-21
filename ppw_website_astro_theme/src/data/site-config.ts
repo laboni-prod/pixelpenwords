@@ -9,7 +9,7 @@ const siteConfig: SiteConfig = {
         alt: 'PixelPenWords logo'
     },
     title: 'PixelPenWords',
-    subtitle: 'Notes in progress.',
+    subtitle: 'Iterating out loud.',
     description: 'A writing platform, product experiments, and digital ecosystem',
     headerNavLinks: [
         {
