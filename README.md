@@ -18,6 +18,7 @@ PixelPenWords is where I share:
 - [Astro](https://astro.build/)
 - Tailwind CSS
 - Markdown content collections
+- Built on the [Astro Dante theme](https://github.com/JustGoodUI/dante-astro-theme) and customized for PixelPenWords.
 
 ## Development
 
