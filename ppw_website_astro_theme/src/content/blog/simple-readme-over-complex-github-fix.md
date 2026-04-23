@@ -4,8 +4,9 @@ excerpt: I spent days trying to fix a GitHub repo structure issue, only to reali
 publishDate: 'April 24 2026'
 isFeatured: true
 tags:
-  - Practise
-  - Web development
+ - GitHub
+ - Learning Journey
+ - Build in Public
 seo:
   image:
     src: '../../assets/images/post_1_hero.png'
@@ -128,7 +129,7 @@ I went into problem-solving mode immediately.
 | **What if I restructure everything through GitHub Desktop instead?** | Possible, but involved enough steps and risk that it wasn’t worth rushing that night.|
 
 ![GitHub Desktop showing error that selected folder is not recognized as a Git repository](/images/github-nested-folder-repo-error.webp)
-*A snapshot from one of the longest 10 hours of my life.*
+*A snapshot from one of the longest 10 hours of my life... another fix attempt failed.*
 
 Whatever fix I tried didn't work and the solution felt more and more out of reach. Even ChatGPT's assurance that it can be pushed to later wasn't helping. 
 
