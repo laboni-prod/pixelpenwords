@@ -15,7 +15,7 @@ seo:
 ![pixelpenwords github folder preview](../../assets/images/post_1_hero.png)
 
 
-**Note:** TLDR: I spent 2–3 days trying to fix what I thought was a serious GitHub repo structure issue, only to realize nothing was broken. Instead of overengineering a cosmetic fix, I solved it with a simple README note. **Sometimes the smartest move is communication, not complexity.**
+_**Note:** TLDR: I spent 2–3 days trying to fix what I thought was a serious GitHub repo structure issue, only to realize nothing was broken. Instead of overengineering a cosmetic fix, I solved it with a simple README note. **Sometimes the smartest move is communication, not complexity.**_
 
 One thing that has become common in my relatively short-term learning experience so far is this:
 
@@ -51,22 +51,27 @@ Naturally, I was stoked for about 2 minutes… until I showed it a screenshot of
 
 While reviewing my repo, ChatGPT pointed out something that I hadn't even realised was a thing.
 
-> My actual website was sitting inside a nested folder named ppw_website_astro_theme instead of the repo root.
+**My actual website was sitting inside a nested folder named ppw_website_astro_theme instead of the repo root.**
 
 Ideally, the structure should be something like this:
 
+```bash
 pixelpenwords/
   src/
   public/
   package.json
+```
 
 But mine was something like this:
 
+
+```bash
 pixelpenwords/        ← repo root (GitHub sees this)
   ppw_website_astro_theme/   ← my actual project
     src/
     public/
-    package.json
+    package.json 
+```
 
 ## How the Nesting Happened
 
@@ -94,7 +99,7 @@ It made sense to me back then. Apparently, though, that’s not how it’s suppo
 
 As per ChatGPT and Google search results, my site wasn't broken, but there could be problems:
 
-- Someone cloning my repo would have to go one folder deeper before they can run anything
+- Someone cloning my repo would have to go one folder deeper before they can run anything.
 - If I ever connect GitHub to a deployment platform like Netlify, I'd need to manually tell it ‘the project is inside ppw_website_astro_theme’ rather than it just working automatically.
 
 Overall, it just looks slightly disorganized to anyone reading the repo.
