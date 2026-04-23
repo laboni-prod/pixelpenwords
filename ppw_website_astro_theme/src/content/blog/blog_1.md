@@ -128,7 +128,7 @@ I went into problem-solving mode immediately.
 | **What if I restructure everything through GitHub Desktop instead?** | Possible, but involved enough steps and risk that it wasn’t worth rushing that night.|
 
 ![GitHub Desktop showing error that selected folder is not recognized as a Git repository](/images/github-nested-folder-repo-error.webp)
-*A snapshot from one of the longest 6 hours of my life.*
+*A snapshot from one of the longest 10 hours of my life.*
 
 Whatever fix I tried didn't work and the solution felt more and more out of reach. Even ChatGPT's assurance that it can be pushed to later wasn't helping. 
 
