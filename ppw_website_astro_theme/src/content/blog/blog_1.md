@@ -127,6 +127,9 @@ I went into problem-solving mode immediately.
 | **What if I use the Git bundled inside GitHub Desktop through its full file path?** | Technically possible, but more fiddly than necessary for a non-urgent cosmetic issue. |
 | **What if I restructure everything through GitHub Desktop instead?** | Possible, but involved enough steps and risk that it wasn’t worth rushing that night.|
 
+![GitHub Desktop showing error that selected folder is not recognized as a Git repository](/images/github-nested-folder-repo-error.webp)
+*A snapshot from one of the longest 6 hours of my life.*
+
 Whatever fix I tried didn't work and the solution felt more and more out of reach. Even ChatGPT's assurance that it can be pushed to later wasn't helping. 
 
 In my eyes, if there's a small tear that can grow more complicated later, pushing it off would make the hole bigger.
