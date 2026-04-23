@@ -114,22 +114,16 @@ _Wouldn't waiting till later to fix it be more of a hassle?_
 
 I went into problem-solving mode immediately. 
 
-Solutions I Researched + Tried Out
-Why They Won’t + Didn’t Work
-What if I just move the project files manually in File Explorer?
-Hard pass. Git may interpret it as mass deletions and re-additions instead of clean moves, which could create unnecessary mess or confusion in the version history.
-What if I use the VS Code terminal and follow the Git commands step by step?
-My PowerShell or Command Prompt terminal wasn't recognising Git because it wasn’t added to my system PATH.
-What if I switch the VS Code terminal to Git Bash instead?
-Git Bash was not available as an installed terminal option inside VS Code.
-What if I use Command Prompt instead of PowerShell?
-It wasn't recognizing Git either, so changing terminals alone didn't resolve the issue. 
-What if I install Git properly and then do the restructure later?
-It could work eventually, but it would turn a small folder issue into a bigger setup task that wasn’t urgent at the time. And honestly, I don't have the technical chops to work on that yet. 
-What if I use the Git bundled inside GitHub Desktop through its full file path?
-Technically possible, but more fiddly than necessary for a non-urgent cosmetic issue.
-What if I restructure everything through GitHub Desktop instead?
-Possible, but involved enough steps and risk that it wasn’t worth rushing that night.
+| Solutions I Researched + Tried Out | Why They Won’t + Didn’t Work|
+|---|---|
+| What if I just move the project files manually in File Explorer? | Hard pass. Git may interpret it as mass deletions and re-additions instead of clean moves, which could create unnecessary mess or confusion in the version history. |
+| What if I use the VS Code terminal and follow the Git commands step by step?
+My PowerShell or Command Prompt terminal wasn't recognising Git because it wasn’t added to my system PATH. |
+|What if I switch the VS Code terminal to Git Bash instead? | Git Bash was not available as an installed terminal option inside VS Code.|
+| What if I use Command Prompt instead of PowerShell? | It wasn't recognizing Git either, so changing terminals alone didn't resolve the issue.|
+| What if I install Git properly and then do the restructure later? | It could work eventually, but it would turn a small folder issue into a bigger setup task that wasn’t urgent at the time. And honestly, I don't have the technical chops to work on that yet. |
+| What if I use the Git bundled inside GitHub Desktop through its full file path? | Technically possible, but more fiddly than necessary for a non-urgent cosmetic issue. |
+| What if I restructure everything through GitHub Desktop instead? | Possible, but involved enough steps and risk that it wasn’t worth rushing that night.|
 
 Whatever fix I tried didn't work and the solution felt more and more out of reach. Even ChatGPT's assurance that it can be pushed to later wasn't helping. 
 
