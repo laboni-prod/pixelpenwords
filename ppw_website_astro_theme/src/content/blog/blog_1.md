@@ -87,6 +87,9 @@ At that point, navigating VS Code felt like being plopped into a foreign country
 
 I didn't want to focus on the giant that was GitHub yet, so I was manually making zip folders of the edited file with the last updated date. I figured I’d get used to VS Code, then create a GitHub account. That’s what I did; I downloaded GitHub Desktop and started setting things up. 
 
+![ZIP backup files](/images/manual-zip-backups.webp)
+*My pre-GitHub version control system.*
+
 **Of course, I struggled at first. Like, a lot.**
 
 I couldn’t figure out what repositories are or pulling/pushing at first. So, I did some digging. From my understanding, editing and saving the theme in a ZIP is like saving a file in a Word document, while using GitHub with its version history feature is like using Google Docs.
