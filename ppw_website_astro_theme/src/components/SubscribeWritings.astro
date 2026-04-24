@@ -15,7 +15,7 @@ if (!subscribe?.enabled || !subscribe?.form?.action) {
     {subscribe.title && <h2 class="w-full max-w-xl font-serif text-2xl leading-tight font-medium sm:text-4xl">{subscribe.title}</h2>}
     {subscribe.text && <p class="w-full max-w-xl text-sm leading-normal">{subscribe.text}</p>}
     <form
-        action={<script async data-uid="dc5ff5b71b" src="https://pixelpenwords.kit.com/dc5ff5b71b/index.js"></script>}
+        action=https://app.kit.com/forms/9365532/subscriptions
         method="post"
         id="subscribe-form"
         name="subscribe-form"
@@ -24,7 +24,7 @@ if (!subscribe?.enabled || !subscribe?.form?.action) {
     >
         <input
             type="email"
-            name={subscribe.form.emailFieldName || 'email'}
+            name="email_address"
             required
             autocomplete="email"
             placeholder="Enter your email"
