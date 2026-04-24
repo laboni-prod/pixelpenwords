@@ -79,7 +79,7 @@ pixelpenwords/        ← repo root (GitHub sees this)
 
 ## How the Nesting Happened
 
-It didn't take me long to recognise the cause.
+It didn't take me long to identify the cause.
 
 When I had first downloaded the Astro theme I wanted to customize, I downloaded it as a zip file and extracted it into a PixelPenWords subfolder inside my Side Projects folder. I usually separate projects I’m working on into different folders in the File Explorer. I did the same in this case and didn't think much of it.
 
@@ -132,7 +132,7 @@ I went into problem-solving mode immediately.
 | **What if I restructure everything through GitHub Desktop instead?** | Possible, but involved enough steps and risk that it wasn’t worth rushing that night.|
 
 ![GitHub Desktop showing error that selected folder is not recognized as a Git repository](/images/github-nested-folder-repo-error.webp)
-*A snapshot from one of the longest 10 hours of my life... another fix attempt failed.*
+*A screenshot from the “which folder is the real repo?” chapter of the night.*
 
 Whatever fix I tried didn't work and the solution felt more and more out of reach. Even ChatGPT's assurance that it can be pushed to later wasn't helping. 
 
