@@ -22,13 +22,12 @@ TLDR: I spent 2–3 days trying to fix what I thought was a serious GitHub repo 
 
 ---
 
-One thing that has become common in my relatively short-term learning experience so far is this:
+One thing that has become a common occurance in my relatively short-term learning experience so far is this:
 
 - I get an idea
 - I try to find ways it can work
 - Start working on it
-
-But then I discover three new complications that require me to learn an entirely new, even more complicated thing immediately to fix Problem No. 1… That wasn't even a problem 5 minutes ago.
+- But then I discover three new complications that require me to learn an entirely new, even more complicated thing immediately to fix Problem No. 1… That wasn't even a problem 5 minutes ago.
 
 Honestly, that’s a pretty standard part of learning anything, so I wasn’t too surprised when it became a pattern for me.
 
