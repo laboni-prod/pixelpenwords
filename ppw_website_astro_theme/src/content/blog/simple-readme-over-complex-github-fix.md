@@ -15,8 +15,11 @@ seo:
 
 ![pixelpenwords github folder preview](../../assets/images/post_1_hero.png)
 
+---
+TLDR: I spent 2–3 days trying to fix what I thought was a serious GitHub repo structure issue, only to realize nothing was broken. Instead of overengineering a cosmetic fix, I solved it with a simple README note. 
 
-> [!NOTE] TLDR: I spent 2–3 days trying to fix what I thought was a serious GitHub repo structure issue, only to realize nothing was broken. Instead of overengineering a cosmetic fix, I solved it with a simple README note. **Sometimes the smartest move is communication, not complexity.**
+**Sometimes the smartest move is communication, not complexity.**
+---
 
 One thing that has become common in my relatively short-term learning experience so far is this:
 
