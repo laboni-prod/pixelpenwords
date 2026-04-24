@@ -8,11 +8,11 @@ seo:
 
 # Subscription Confirmed
 
-**Thanks for confirming your email.**
+Thanks for confirming your email.
 
-**You’re now part of PixelPenWords. I’ll reach out occasionally when there’s something meaningful to share.**
+You’re now part of PixelPenWords. I’ll reach out occasionally when there’s something meaningful to share.
 
-**Glad to have you here!**
+Glad to have you here!
 
 
 ---
