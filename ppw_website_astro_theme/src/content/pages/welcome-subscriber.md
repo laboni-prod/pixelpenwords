@@ -18,5 +18,4 @@ Glad to have you here!
 ---
 
 - Back to [Writings](/blog)
-- Explore [Projects](/projects)
 - Get access to useful [Tools](/tools)
