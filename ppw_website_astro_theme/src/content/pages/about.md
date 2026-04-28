@@ -12,7 +12,7 @@ seo:
 
 ### Hey person-reading-this,
 
-I’m Laboni B. I am currently working as a writer for a company, creating content for their in-house projects. But somewhere along the way, I realized I didn’t only want to promote products that help people with specific situations — I wanted to create those products directly.
+I’m Laboni B. I am currently working as a writer for a company, creating content for their in-house projects. But over time, I realized I didn’t only want to promote products that help people with specific situations — I wanted to create those products directly.
 
 That curiosity is what pulled me toward product design.
 
@@ -54,7 +54,7 @@ To me, calm productivity means knowing you are capable of doing the task on your
 
 I’m still figuring out whether the path I’m on right now is the right one.
 
-- Can I build the [apps](/projects) I’m working on in a way that genuinely helps someone someday?
+- Can I build the apps I’m working on in a way that genuinely helps someone someday?
 - Have I bitten off more than I can chew?
 
 **I have never been the ambitious one. But now that I am dreaming, I’m learning whether I can see it through responsibly.**
