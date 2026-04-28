@@ -48,8 +48,7 @@ While building the custom notion template, some parts were simple to navigate wh
 | **Problems Noticed** | **Solutions Found** |
 |---|---|
 | I could not figure out how to move the items automatically to the bottom. Online showed Sort > Descending as the way to go. | Sort > Ascending worked instead. |
-| Clicking on ‘Add Item’ to add items to the list was showing the prompt “Would you like to remove sorting?” each time. Clicking remove was breaking Relation and the popup was appearing too many times. **UX concern: It might cause user frustration.** |
-Added an information section with disclaimer about this for easier understanding and to reduce panic. |
+| Clicking on ‘Add Item’ to add items to the list was showing the prompt “Would you like to remove sorting?” each time. Clicking remove was breaking Relation and the popup was appearing too many times. UX concern: It might cause user frustration. | Added an information section with disclaimer about this for easier understanding and to reduce panic. |
 | The previous version was usable but not intuitive. | Added feature to pull grocery items to meal planner database, added expiration date with reminder in grocery list database. |
 
 ![Imp Notes About Grocery List](/images/food-dashboard-grocery-notes.webp)
