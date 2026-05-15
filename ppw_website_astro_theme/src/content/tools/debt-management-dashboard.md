@@ -26,11 +26,13 @@ seo:
 <div class="offer-action">
   <a 
     href="https://pixelpenwords.gumroad.com/l/debt-management-dashboard"
-    class="buy-btn gumroad-button"
+    class="buy-btn"
+    data-gumroad-single-product="true"
   >
     Get the Template →
   </a>
 </div>
+
 <script src="https://gumroad.com/js/gumroad.js"></script>
 </div>
 
