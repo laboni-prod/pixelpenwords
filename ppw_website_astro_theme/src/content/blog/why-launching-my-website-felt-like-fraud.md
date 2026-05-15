@@ -71,8 +71,8 @@ This is somewhat embarrassing to admit but I think I was expecting launch day to
 
 It took launch day feeling strangely anticlimactic for me to understand the point. 
 
-One doesn't have to suffer for six more months just so success would feel more earned. The point always was to build the thing.
-And now it exists.
+_One doesn't have to suffer for six more months just so success would feel more earned. The point always was to build the thing._
+_And now it exists._
 
 ## Closing
 
@@ -82,4 +82,6 @@ Life isn't going to pause to congratulate me.
 
 But I do recognize and finally feel something positive:
 
-I made something and I shipped it. For now that's enough. 
+**I made something and I shipped it. For now that's enough.**
+
+---
