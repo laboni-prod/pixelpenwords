@@ -69,10 +69,11 @@ But I guess that's what the issue was. I imagined that there needed to be extrem
 
 This is somewhat embarrassing to admit but I think I was expecting launch day to validate me. I wanted the story of struggle, to know I suffered through long sleepless hours to bring my idea to life when reality was not as dramatic.
 
-It took launch day feeling strangely anticlimactic for me to understand the point. 
+*It took launch day feeling strangely anticlimactic for me to understand the point.*
 
-_One doesn't have to suffer for six more months just so success would feel more earned. The point always was to build the thing._
-_And now it exists._
+One doesn't have to suffer for six more months just so success would feel more earned. The point always was to build the thing.
+
+And now it exists.
 
 ## Closing
 
@@ -83,5 +84,3 @@ Life isn't going to pause to congratulate me.
 But I do recognize and finally feel something positive:
 
 **I made something and I shipped it. For now that's enough.**
-
----
