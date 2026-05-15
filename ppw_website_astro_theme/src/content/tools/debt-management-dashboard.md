@@ -29,7 +29,7 @@ seo:
     class="buy-btn"
     data-gumroad-single-product="true"
   >
-    Get the Template →
+    Map Your Payoff →
   </a>
 </div>
 
@@ -74,7 +74,7 @@ _**Note: A comprehensive video tutorial is available directly in the gallery bel
 
 ## How to Get It 
 
-1. Click the **Get the Template** button above.  
+1. Click the **Map Your Payoff** button above.  
 2. A secure Gumroad checkout window will open instantly.  
 3. Enter any amount you’d like (starting at $5).  
 4. Download instantly after checkout.  

@@ -24,11 +24,15 @@ seo:
 </div>
 
 <div class="offer-action">
-<a href="https://pixelpenwords.gumroad.com/l/glow-up-tracker-home-workout" class="buy-btn" target="_blank">
-Get it on Gumroad →
-</a>
+  <a 
+    href="https://pixelpenwords.gumroad.com/l/glow-up-tracker"
+    class="buy-btn"
+    data-gumroad-single-product="true"
+  >
+    Start Tracking →
+  </a>
 </div>
-
+<script src="https://gumroad.com/js/gumroad.js"></script>
 </div>
 
 </div>
@@ -67,8 +71,8 @@ Glow-Up Tracker (Home Workout Edition) helps you build a sustainable fitness rou
 
 ## How to Get It 
 
-1. Click the **Get it on Gumroad** button above.  
-2. You’ll be redirected to my secure Gumroad checkout page.  
+1. Click the **Start Tracking** button above.  
+2. A secure Gumroad checkout window will open instantly.  
 3. Enter any amount you’d like (starting at $4.99).  
 4. Download instantly after checkout.  
 5. Open the template in Notion and duplicate it to your workspace.
