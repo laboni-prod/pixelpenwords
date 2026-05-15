@@ -24,16 +24,11 @@ seo:
 </div>
 
 <div class="offer-action">
-  <a 
-    href="https://pixelpenwords.gumroad.com/l/debt-management-dashboard"
-    class="buy-btn"
-    data-gumroad-single-product="true"
-  >
-    Map Your Payoff →
-  </a>
+<a href="https://pixelpenwords.gumroad.com/l/debt-management-dashboard" class="buy-btn" target="_blank">
+Map Your Payoff →
+</a>
 </div>
 
-<script src="https://gumroad.com/js/gumroad.js"></script>
 </div>
 
 </div>
@@ -75,7 +70,7 @@ _**Note: A comprehensive video tutorial is available directly in the gallery bel
 ## How to Get It 
 
 1. Click the **Map Your Payoff** button above.  
-2. A secure Gumroad checkout window will open instantly.  
+2. You’ll be redirected to my secure Gumroad checkout page.  
 3. Enter any amount you’d like (starting at $5).  
 4. Download instantly after checkout.  
 5. Open the Access Template PDF inside. You'll find the instructions to 'Get Template' and make your copy inside the PDF. 

@@ -24,15 +24,10 @@ seo:
 </div>
 
 <div class="offer-action">
-  <a 
-    href="https://pixelpenwords.gumroad.com/l/monthly-money-reality"
-    class="buy-btn"
-    data-gumroad-single-product="true"
-  >
-    Understand Your Spending →
-  </a>
+<a href="https://pixelpenwords.gumroad.com/l/monthly-money-reality" class="buy-btn" target="_blank">
+Understand Your Spending →
+</a>
 </div>
-<script src="https://gumroad.com/js/gumroad.js"></script>
 
 </div>
 
@@ -73,7 +68,7 @@ Monthly Money Reality is a pressure-free Notion template created to help you obs
 ## How to Get It 
 
 1. Click the **Understand Your Spending** button above.  
-2. A secure Gumroad checkout window will open instantly.  
+2. You’ll be redirected to my secure Gumroad checkout page.  
 3. Enter any amount you’d like (starting at $0).  
 4. Download instantly after checkout.  
 5. Open the template in Notion and duplicate it to your workspace.

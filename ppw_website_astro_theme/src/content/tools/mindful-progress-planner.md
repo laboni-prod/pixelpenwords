@@ -14,7 +14,7 @@ seo:
 
 <div class="offer-box">
 
-<h3>Structure without overwhelm</h3>
+<h3>Bring calm into your workspace</h3>
 
 <div class="offer-row">
 
@@ -24,15 +24,11 @@ seo:
 </div>
 
 <div class="offer-action">
-  <a 
-    href="https://pixelpenwords.gumroad.com/l/mindful-progress-planner"
-    class="buy-btn"
-    data-gumroad-single-product="true"
-  >
-    Plan More Mindfully →
-  </a>
+<a href="https://pixelpenwords.gumroad.com/l/mceaer" class="buy-btn" target="_blank">
+Plan More Mindfully →
+</a>
 </div>
-<script src="https://gumroad.com/js/gumroad.js"></script>
+
 </div>
 
 </div>
@@ -73,7 +69,7 @@ Whether you’re tracking weekly goals, noting challenges, or recording small wi
 ## How to Get It 
 
 1. Click the **Plan More Mindfully** button above.  
-2. A secure Gumroad checkout window will open instantly.  
+2. You’ll be redirected to my secure Gumroad checkout page.  
 3. Enter any amount you’d like (starting at $0).  
 4. Download instantly after checkout.  
 5. Open the template in Notion and duplicate it to your workspace.
