@@ -24,11 +24,14 @@ seo:
 </div>
 
 <div class="offer-action">
-<a href="https://pixelpenwords.gumroad.com/l/debt-management-dashboard" class="buy-btn" target="_blank">
-Get it on Gumroad →
-</a>
+  <a 
+    href="https://pixelpenwords.gumroad.com/l/debt-management-dashboard"
+    class="buy-btn gumroad-button"
+  >
+    Get the Template →
+  </a>
 </div>
-
+<script src="https://gumroad.com/js/gumroad.js"></script>
 </div>
 
 </div>
@@ -69,8 +72,8 @@ _**Note: A comprehensive video tutorial is available directly in the gallery bel
 
 ## How to Get It 
 
-1. Click the **Get it on Gumroad** button above.  
-2. You’ll be redirected to my secure Gumroad checkout page.  
+1. Click the **Get the Template** button above.  
+2. A secure Gumroad checkout window will open instantly.  
 3. Enter any amount you’d like (starting at $5).  
 4. Download instantly after checkout.  
 5. Open the Access Template PDF inside. You'll find the instructions to 'Get Template' and make your copy inside the PDF. 
@@ -106,5 +109,4 @@ _Unfortunately, I don't offer a free version of this spreadsheet at the moment. 
    <video controls preload="metadata">
     <source src="/videos/tool-4-demo.mp4" type="video/mp4">
   </video>
-  </a>
 </div>
