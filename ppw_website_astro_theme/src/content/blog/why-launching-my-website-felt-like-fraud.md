@@ -29,11 +29,11 @@ Finally, when I couldn't find any major pending error and everything seemed to w
 
 I did struggle a bit at first (was mistakenly using the Workers path instead of Pages) but within 30 minutes or so, I deployed. Waited a few minutes and then checked my site in the browser.
 
-Loaded twice, didn't work. On the third reload… it was up. Pixelpenwords.com. Right there in the space where I usually type everyone else's sites… now blinking with my site’s domain. Active.
+Loaded twice, didn't work. On the third reload… it was up. **Pixelpenwords.com**. Right there in the space where I usually type everyone else's sites… now blinking with my site’s domain. Active.
 
 I waited for the swell of emotions to come because really, that's my default setting… but nothing.
 
-No fireworks. No “I did it… I really actually did it.”
+No fireworks. No “I did it… *I really actually did it.*”
 
 Reality felt… different. All I could think about in that moment was:
 
@@ -49,9 +49,9 @@ Well, after I attended my office work update meeting, of course. (Worry not, I w
 
 My lack of reaction from finally launching my site didn't really hit me until the next day. It had been at the back of my mind throughout the day, but I didn't really sit and think about it. I had work responsibilities to do and also figure out the email subscription thing in my free time.
 
-Why didn’t I feel excited after making my site live?
+*Why didn’t I feel excited after making my site live?*
 
-Why did it feel more fake than fulfilling?
+*Why did it feel more fake than fulfilling?*
 
 Then it dawned on me.
 
