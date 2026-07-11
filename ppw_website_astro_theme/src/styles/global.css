@@ -102,14 +102,15 @@ html.dark {
     }
 
     .prose img {
-    border: 1px solid rgba(31, 33, 24, 0.10);
+    display: block;
+    width: 100%;
     border-radius: 10px;
-    box-shadow: 0 2px 8px rgba(31, 33, 24, 0.06);
-}
-
-html.dark .prose img {
-    border-color: rgba(255, 255, 255, 0.08);
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 12px 32px rgba(31, 33, 24, 0.28);
+    }
+    
+    html.dark .prose img {
+    box-shadow: none;
+    border-radius: 10px;
 }
     
     .tool-grid {
