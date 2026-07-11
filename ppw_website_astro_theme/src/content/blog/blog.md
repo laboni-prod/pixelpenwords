@@ -57,13 +57,14 @@ I couldn't figure it out. I'd open the document, reread the same three questions
 
 Around this time, a website started looking a lot more interesting: I'd need a place for the app to live eventually anyway.
 
-I started working on that: figuring out how to create a site as a non-technical person, [how to use VS Code](https://pixelpenwords.com/blog/simple-readme-over-complex-github-fix/), and so on. I paused the app PRD entirely and dedicated my energy entirely to [building PixelPenWords](https://www.pixelpenwords.com/blog/why-launching-my-website-felt-like-fraud/).
+I started working on that: figuring out how to create a site as a non-technical person, [how to use VS Code](https://pixelpenwords.com/blog/simple-readme-over-complex-github-fix/), and so on. I paused the app PRD entirely and dedicated my energy entirely to building PixelPenWords.
 
 *This was back in February. Now it's July.*
 
 ## Cracking Through the IA Documentation
 
-After I completed my-site-detour-that-technically-became-my-first project, I decided to focus back on my original aim. But when I sat down with it, the blockage was still there.
+After I [completed my-site-detour-that-technically-became-my-first project](https://www.pixelpenwords.com/blog/why-launching-my-website-felt-like-fraud/), I decided to focus back on my original aim. But when I sat down with it, the blockage was still there.
+
 I pushed it off again and again until three days ago, I decided to stop avoiding it and complete the IA regardless of whether I understood it or not.
 
 I took a different approach than I had been taking. I started thinking of it in terms of building a house. 
