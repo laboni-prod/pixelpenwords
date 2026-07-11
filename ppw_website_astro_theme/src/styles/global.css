@@ -100,6 +100,30 @@ html.dark {
     .prose blockquote {
         @apply font-serif font-normal italic border-none pl-0 text-[1.375em] leading-snug sm:text-[1.66667em];
     }
+
+    .prose img {
+    display: block;
+    width: 100%;
+    border-radius: 10px;
+
+    /* barely visible border */
+    border: 1px solid rgba(31, 33, 24, 0.08);
+
+    /* soft depth */
+    box-shadow:
+        0 2px 6px rgba(31, 33, 24, 0.05),
+        0 12px 30px rgba(31, 33, 24, 0.03);
+
+    transition: box-shadow 0.2s ease;
+}
+
+html.dark .prose img {
+    border-color: rgba(255,255,255,0.06);
+
+    box-shadow:
+        0 2px 8px rgba(0,0,0,0.18),
+        0 18px 36px rgba(0,0,0,0.22);
+}
     
     .tool-grid {
         display: grid;
