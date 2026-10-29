@@ -34,7 +34,7 @@ They became a way for me to learn how to build organized digital tools with a fo
 
 I also experimented with digital wall art that I posted on Etsy, learned Etsy SEO and Pinterest SEO, and different ways of putting creative work into the world.
 
-At some point, I realized I was building several things at once: [templates](/tools), product ideas, writing, experiments.
+At some point, I realized I was building several things at once: templates, product ideas, writing, experiments.
 
 So I asked myself:
 
