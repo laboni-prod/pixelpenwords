@@ -12,7 +12,7 @@
 @custom-variant dark (&:where(.dark, .dark *));
 
 :root {
-    --text-main: #212310;
+    --text-main: #0c0c05;
     --bg-main: #e4e6dc;
     --bg-muted: #fffcf6;
     --border-main: #656464;
@@ -27,7 +27,7 @@ html.dark {
 /* Cyan */
 /*
 :root {
-    --text-main: #162a2b;
+    --text-main: #040808;
     --bg-main: #d6e0e2;
     --bg-muted: #ccd8db;
     --border-main: #162a2b;
@@ -86,7 +86,7 @@ html.dark {
     }
 
     .prose a {
-        @apply underline font-normal decoration-1 underline-offset-2 decoration-dashed hover:decoration-solid;
+        @apply underline font-bold decoration-1 underline-offset-2 decoration-dashed hover:decoration-solid;
     }
 
     .prose :where(h1, h2, h3, h4, h5, h6) {
