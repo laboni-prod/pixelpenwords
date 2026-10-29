@@ -9,37 +9,67 @@ type Props = HeroProps;
 const { title, subtitle, image, video, text, actions } = Astro.props;
 ---
 
+
 {
-    (title || image?.src || text || (actions && actions.length > 0)) && (
-        <section class="mb-16 flex w-full flex-col gap-8 sm:mb-24">
-            {title && <h1 class="font-serif text-3xl leading-tight font-bold sm:text-5xl sm:leading-tight">{title}</h1>}
-            {subtitle && (
-    <p class="home-hero-subtitle">{subtitle}</p>
-)}
-            {image?.src && (
-                <figure>
-                    <CustomImage
-                        class="w-full"
-                        {...image}
-                        widths={[480, 640, 768, 1024, 1536]}
-                        sizes="(min-width: 832px) 768px, calc(100vw - 32px)"
-                        fetchpriority="high"
-                        loading="eager"
-                    />
-                    {image.caption && <figcaption class="mt-1.5 text-xs sm:text-sm">{image.caption}</figcaption>}
-                </figure>
+  (title || image?.src || video || text || (actions && actions.length > 0)) && (
+    <section class="home-hero mb-16 sm:mb-24">
+      <div class="home-hero-copy">
+        <div class="home-hero-heading">
+          {title && (
+            <h1 class="home-hero-title">{title}</h1>
+          )}
+          {subtitle && (
+            <p class="home-hero-subtitle">{subtitle}</p>
+          )}
+        </div>
+
+        {text && (
+          <div
+            class="home-hero-prose prose sm:prose-lg max-w-none"
+            set:html={marked.parse(text)}
+          />
+        )}
+
+        {actions && actions.length > 0 && (
+          <div class="home-hero-actions flex flex-wrap gap-4">
+            {actions.map((action) => (
+              <Button href={action.href}>{action.text}</Button>
+            ))}
+          </div>
+        )}
+      </div>
+
+      <div class="home-hero-media">
+        {video ? (
+          <video
+            class="home-hero-video"
+            autoplay
+            muted
+            loop
+            playsinline
+            preload="metadata"
+            aria-label="Looping homepage video"
+          >
+            <source src={video} type="video/mp4" />
+          </video>
+        ) : image?.src ? (
+          <figure>
+            <CustomImage
+              class="home-hero-image"
+              {...image}
+              widths={[480, 640, 768, 1024, 1536]}
+              sizes="(min-width: 832px) 50vw, calc(100vw - 32px)"
+              fetchpriority="high"
+              loading="eager"
+            />
+            {image.caption && (
+              <figcaption class="mt-1.5 text-xs sm:text-sm">
+                {image.caption}
+              </figcaption>
             )}
-            <video autoplay muted loop playsinline>
-                 <source src={video} type="video/mp4" />
-                 </video>
-            {text && <div class="prose sm:prose-lg max-w-none" set:html={marked.parse(text)} />}
-            {actions && actions.length > 0 && (
-                <div class="flex flex-wrap gap-4">
-                    {actions.map((action) => (
-                        <Button href={action.href}>{action.text}</Button>
-                    ))}
-                </div>
-            )}
-        </section>
-    )
+          </figure>
+        ) : null}
+      </div>
+    </section>
+  )
 }
