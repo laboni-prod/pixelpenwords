@@ -9,7 +9,6 @@ const siteConfig: SiteConfig = {
         alt: 'PixelPenWords logo'
     },
     title: 'PixelPenWords',
-    subtitle: 'Iterating out loud.',
     description: 'A writing platform, product experiments, and digital ecosystem',
     headerNavLinks: [
         {
@@ -58,8 +57,10 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        title: 'From Words to Pixels. An Honest Version.',
+        title: 'Builder Arc In Progress...',
+        subtitle: 'From sentences to systems.',
         text: "I'm **Laboni B**, a writer by profession and a builder by heart. Currently transitioning into the field of product design with digital products that help people manage their cognitive load. \n This space is where I will present my projects and document my learning experience openly. \n\n **I am also working on a project (my first PWA); learning as I go.** I will present them in a Projects section after I have something to show. In the meantime, I will document what I am learning in the [Writings](/blog) section, if you’d like to take a look there. The [Tags](/tags) will help you navigate. \n\n I do not know if my process is the best possible strategy, but I intend to document what I am learning honestly (partially for you and partially for me to look back on). You can read the [About](/about) page if you’re curious about my choice. \n\n **Excited to have you here!** \n\n _Track the technical side of my progress and projects on [GitHub](https://github.com/laboni-prod) or reach out via the [Contact](/contact) page._",
+        video: '/videos/ppw-hero-video.mp4',
         image: {
             src: hero,
             alt: 'A laptop screen with code on bed and teacup on the side'

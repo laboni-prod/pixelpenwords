@@ -247,3 +247,11 @@ html.dark .buy-btn{
   cursor: pointer;
 }
   }
+
+.home-hero-subtitle {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    margin-top: 0.5rem;
+    opacity: 0.8;
+}
