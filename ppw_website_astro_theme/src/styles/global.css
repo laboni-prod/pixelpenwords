@@ -248,80 +248,82 @@ html.dark .buy-btn{
 }
   }
 
-.home-hero-subtitle {
-    font-family: 'DM Sans', sans-serif;
-    font-size: 1rem;
-    font-weight: 400;
-    margin-top: 0.5rem;
-    opacity: 0.8;
+/* Homepage hero */
+
+:root {
+  /* equal space above and below the video, scales with viewport height */
+  --hero-gap: clamp(6rem, 12svh, 10rem);
+  /* space the layout adds above the hero (measured ~10rem from your recording) */
+  --hero-top-offset: 10rem;
 }
 
-
-
-
-
-/* Homepage hero */
 .home-hero {
   position: relative;
   left: 50%;
-  width: min(88rem, calc(100vw - 50rem));
+  width: min(75rem, calc(100vw - 4rem));
   transform: translateX(-50%);
+  /* pull the hero up so its resting position == pinned position */
+  margin-top: calc(var(--hero-gap) - var(--hero-top-offset)); 
   display: grid;
   grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.95fr);
   gap: clamp(2.5rem, 6vw, 6rem);
   align-items: start;
 }
 
-.home-hero-copy {
-  min-width: 0;
+
+/* First screen: fills the viewport so the prose starts below the fold */
+.home-hero-intro {
+  height: calc(100svh - var(--hero-gap));
+  padding-bottom: var(--hero-gap);
+  display: flex;
+  flex-direction: column;
 }
 
-.home-hero-heading {
-  margin-bottom: 2.5rem;
+/* brand at top, heading pushed to the bottom of the video's height */
+
+.home-hero-heading { margin: auto 0 0; }
+
+.home-hero-copy {
+  min-width: 0;
+  container-type: inline-size; /* lets children size themselves relative to this column's width (cqi) */
 }
 
 .home-hero-title {
   margin: 0;
   font-family: 'DM Sans', sans-serif;
-  font-size: clamp(3rem, 5vw, 5.5rem);
+  font-size: 21.2cqi; /* 1cqi = 1% of the column's width; sized so "Builder Arc" fills one line */
   font-weight: 500;
-  line-height: 1.04;
-  letter-spacing: -0.055em;
+  line-height: 0.98;
+  letter-spacing: -0.06em;
 }
 
 .home-hero-subtitle {
-  margin: 1rem 0 0;
+  margin: 1.25rem 0 0;
   font-family: 'DM Sans', sans-serif;
-  font-size: 1.125rem;
-  line-height: 1.5;
+  font-size: clamp(1rem, 4.2cqi, 1.75rem); /* bigger than before, still much smaller than the title */
+  line-height: 1.4;
   opacity: 0.8;
 }
 
-.home-hero-prose {
-  min-width: 0;
-}
+.home-hero-prose { min-width: 0; }
+.home-hero-actions { margin-top: 2rem; }
 
-.home-hero-actions {
-  margin-top: 2rem;
-}
-
-
+/* Video: same height as the intro's content area, pinned at the same offset */
 .home-hero-media {
   position: sticky;
-  top: 2rem;
+  top: var(--hero-gap);
   align-self: start;
   min-width: 0;
+  height: calc(100svh - 2 * var(--hero-gap));
 }
 
-.home-hero-media figure {
-  margin: 0;
-}
+.home-hero-media figure { margin: 0; }
 
 .home-hero-image {
   display: block;
   width: 100%;
-  max-height: calc(100vh - 3rem);
-  aspect-ratio: 4 / 5;
+  height: 100%;
+  aspect-ratio: auto;
   object-fit: cover;
   border-radius: 10px;
 }
@@ -329,36 +331,48 @@ html.dark .buy-btn{
 .home-hero-video {
   display: block;
   width: 100%;
-  height: calc(100svh - 4rem);
+  height: 100%;
   object-fit: cover;
   object-position: center;
   border-radius: 10px;
 }
 
-/* Mobile styles */
+/* Fade effects (Chromium/Safari 26+; elsewhere it just scrolls normally) */
+
+@keyframes hero-fade-out { to { opacity: 0; transform: translateY(-2rem); } }
+@keyframes hero-fade-in  { from { opacity: 0; transform: translateY(2rem); } }
+
+@media (min-width: 768px) and (prefers-reduced-motion: no-preference) {
+  @supports (animation-timeline: view()) {
+    .home-hero-heading {
+      animation: hero-fade-out linear both;
+      animation-timeline: scroll(root);
+      animation-range: 0 45svh;
+    }
+    .home-hero-prose,
+    .home-hero-actions {
+      animation: hero-fade-in linear both;
+      animation-timeline: view();
+      animation-range: entry 0% entry 90%;
+    }
+  }
+}
+
+/* Mobile: stacked, nothing pinned */
 
 @media (max-width: 767px) {
   .home-hero {
     left: auto;
     width: 100%;
     transform: none;
+    margin-top: 0;
     grid-template-columns: minmax(0, 1fr);
     gap: 2rem;
   }
-
-  .home-hero-media {
-    position: static;
-    grid-row: 1;
-  }
-
-  .home-hero-title {
-    font-size: clamp(2.5rem, 10vw, 4rem);
-  }
-
-  .home-hero-image {
-    max-height: none;
-    aspect-ratio: 4 / 3;
-  }
+  .home-hero-intro { height: auto; padding-bottom: 0; }
+  .home-hero-heading { margin-top: 2rem; }
+  .home-hero-media { position: static; height: auto; grid-row: 1; }
+  .home-hero-video { height: 65svh; max-height: 600px; }
+  .home-hero-title { font-size: clamp(2.5rem, 10vw, 4rem); }
+  .home-hero-image { height: auto; aspect-ratio: 4 / 3; }
 }
-
-

@@ -14,20 +14,23 @@ const { title, subtitle, image, video, text, actions } = Astro.props;
 {
   (title || image?.src || video || text || (actions && actions.length > 0)) && (
     <section class="home-hero mb-16 sm:mb-24">
-      <div class="home-hero-copy">
 
-  <div class="home-hero-brand">
-    <Header />
+<div class="home-hero-copy">
+
+  <div class="home-hero-intro">
+    <div class="home-hero-brand">
+      <Header />
+    </div>
+
+    <div class="home-hero-heading">
+      {title && (
+        <h1 class="home-hero-title">{title}</h1>
+      )}
+      {subtitle && (
+        <p class="home-hero-subtitle">{subtitle}</p>
+      )}
+    </div>
   </div>
-
-  <div class="home-hero-heading">
-          {title && (
-            <h1 class="home-hero-title">{title}</h1>
-          )}
-          {subtitle && (
-            <p class="home-hero-subtitle">{subtitle}</p>
-          )}
-        </div>
 
         {text && (
           <div
