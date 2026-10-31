@@ -368,21 +368,92 @@ html.dark .buy-btn{
   }
 }
 
-/* Mobile: stacked, nothing pinned */
 
+/* Mobile hero */
 @media (max-width: 767px) {
   .home-hero {
     left: auto;
     width: 100%;
     transform: none;
     margin-top: 0;
+    display: grid;
     grid-template-columns: minmax(0, 1fr);
-    gap: 2rem;
+    gap: 0;
   }
-  .home-hero-intro { height: auto; padding-bottom: 0; }
-  .home-hero-heading { margin-top: 2rem; }
-  .home-hero-media { position: static; height: auto; grid-row: 1; }
-  .home-hero-video { height: 65svh; max-height: 600px; }
-  .home-hero-title { font-size: clamp(2.5rem, 10vw, 4rem); }
-  .home-hero-image { height: auto; aspect-ratio: 4 / 3; }
+
+  .home-hero-copy,
+  .home-hero-intro {
+    display: contents;
+  }
+
+  /* Brand */
+  .home-hero-brand {
+    grid-column: 1;
+    grid-row: 1;
+    margin-bottom: 1rem;
+  }
+
+  .home-hero-brand header {
+    margin-bottom: 0;
+  }
+
+  /* Video */
+  .home-hero-media {
+    grid-column: 1;
+    grid-row: 2;
+    position: relative;
+    top: auto;
+    height: min(62svh, 520px);
+    min-height: 340px;
+    overflow: hidden;
+    border-radius: 10px;
+  }
+
+  .home-hero-video,
+  .home-hero-image {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+
+  /* Heading overlays the video through CSS Grid */
+  .home-hero-heading {
+    grid-column: 1;
+    grid-row: 2;
+    align-self: end;
+    position: relative;
+    z-index: 2;
+    margin: 0;
+    padding: 1.5rem 1.25rem;
+    color: white;
+  }
+
+  .home-hero-title {
+    font-size: clamp(4.75rem, 12vw, 4.75rem);
+    line-height: 0.95;
+    color: white;
+    }
+    
+    .home-hero-subtitle {
+        margin: 0.85rem 0 0;
+         font-size: clamp(1.4rem, 7vw, 2.4rem);
+          line-height: 1;
+           color: white;
+           opacity: 0.9;
+           }
+
+  /* Introduction */
+  .home-hero-prose {
+    grid-column: 1;
+    grid-row: 3;
+    margin-top: 2rem;
+  }
+
+  .home-hero-actions {
+    grid-column: 1;
+    grid-row: 4;
+    margin-top: 1.75rem;
+  }
 }
