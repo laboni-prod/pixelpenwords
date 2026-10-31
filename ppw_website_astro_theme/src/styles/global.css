@@ -1,10 +1,16 @@
 @import '@fontsource/cormorant-garamond/300.css' layer(base);
 @import '@fontsource/cormorant-garamond/400.css' layer(base);
-@import '@fontsource/cormorant-garamond/400-italic.css' layer(base);
-@import '@fontsource/cormorant-garamond/600.css' layer(base);
+@import '@fontsource/cormorant-garamond/400-italic.css' layer(base);cormorant-garamond
+@import '@fontsource//600.css' layer(base);
 @import '@fontsource/dm-sans/300.css' layer(base);
 @import '@fontsource/dm-sans/400.css' layer(base);
 @import '@fontsource/dm-sans/500.css' layer(base);
+
+@import '@fontsource/anton/400.css' layer(base);
+
+@import '@fontsource/league-spartan/700.css' layer(base);
+@import '@fontsource/league-spartan/800.css' layer(base);
+@import '@fontsource/league-spartan/900.css' layer(base);
 
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
@@ -296,6 +302,23 @@ html.dark .buy-btn{
   line-height: 0.98;
   letter-spacing: -0.06em;
 }
+
+
+/* Font comparison */
+
+.hero-font-anton {
+  font-family: 'Anton', sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.hero-font-spartan {
+  font-family: 'League Spartan', sans-serif;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+
 
 .home-hero-subtitle {
   margin: 1.25rem 0 0;
