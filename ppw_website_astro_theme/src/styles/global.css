@@ -1,7 +1,7 @@
 @import '@fontsource/cormorant-garamond/300.css' layer(base);
 @import '@fontsource/cormorant-garamond/400.css' layer(base);
-@import '@fontsource/cormorant-garamond/400-italic.css' layer(base);cormorant-garamond
-@import '@fontsource//600.css' layer(base);
+@import '@fontsource/cormorant-garamond/400-italic.css' layer(base);
+@import '@fontsource/cormorant-garamond/600.css' layer(base);
 @import '@fontsource/dm-sans/300.css' layer(base);
 @import '@fontsource/dm-sans/400.css' layer(base);
 @import '@fontsource/dm-sans/500.css' layer(base);
@@ -296,36 +296,23 @@ html.dark .buy-btn{
 
 .home-hero-title {
   margin: 0;
-  font-family: 'DM Sans', sans-serif;
-  font-size: 21.2cqi; /* 1cqi = 1% of the column's width; sized so "Builder Arc" fills one line */
-  font-weight: 500;
-  line-height: 0.98;
-  letter-spacing: -0.06em;
-}
-
-
-/* Font comparison */
-
-.hero-font-anton {
   font-family: 'Anton', sans-serif;
+  font-size: 27.5cqi; /* 1cqi = 1% of the column's width; sized so "Builder Arc" fills one line */
   font-weight: 400;
-  text-transform: uppercase;
-}
-
-.hero-font-spartan {
-  font-family: 'League Spartan', sans-serif;
-  font-weight: 800;
+  line-height: 0.99;
+  letter-spacing: -0.04em;
   text-transform: uppercase;
 }
 
 
 
 .home-hero-subtitle {
-  margin: 1.25rem 0 0;
-  font-family: 'DM Sans', sans-serif;
-  font-size: clamp(1rem, 4.2cqi, 1.75rem); /* bigger than before, still much smaller than the title */
-  line-height: 1.4;
-  opacity: 0.8;
+  margin: 1rem 0 0;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: clamp(1.8rem, 3vw, 2.4rem);
+  font-weight: 400;
+  line-height: 1;
+  opacity: 0.7;
 }
 
 .home-hero-prose { min-width: 0; }
